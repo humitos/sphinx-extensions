@@ -51,6 +51,10 @@ Extensions
   * Description: powerful Markdown flavor for your Sphinx documentation without loosing the power of Sphinx itself
 
 * :doc:`sphinxcontrib-httpdomain`
+
+  * Homepage: https://sphinxcontrib-httpdomain.readthedocs.io/en/stable/
+  * Description: directives to document APIs in a very detailed way
+
 * :doc:`sphinx-autobuild`
 
   * Homepage: https://github.com/GaretJax/sphinx-autobuild

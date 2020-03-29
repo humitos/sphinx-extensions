@@ -36,6 +36,7 @@ extensions = [
     'sphinx_copybutton',
     'notfound.extension',
     'myst_parser',
+    'sphinxcontrib.httpdomain',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
