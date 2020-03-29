@@ -21,7 +21,7 @@ Run this command in your terminal,
 
 .. prompt:: bash
 
-   $ sphinx-autobuild docs docs/_build/html
+   sphinx-autobuild docs docs/_build/html
 
 
 * ``docs`` is the directory of your source documentation
