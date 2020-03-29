@@ -27,47 +27,26 @@ Extensions
 * :doc:`sphinx-copybutton`: adds little "copy" button to the right of your code blocks
 * :doc:`myst-parser`: powerful Markdown flavor for your Sphinx documentation without loosing the power of Sphinx itself
 * :doc:`sphinxcontrib-httpdomain`: directives to document APIs in a very detailed way
-* :doc:`sphinx-autobuild`: watch a directory and rebuild the documentation when a change is detected and reload the page to see the changes
+* :doc:`sphinx-autobuild`: rebuild the documentation when a change is detected and reload the page to see the changes
 * :doc:`sphinx-autoapi`: auto document your code API without executing the code itself (as ``sphinx.autodoc`` does)
-* :doc:`nbsphinx`
-
-  * Homepage: https://nbsphinx.readthedocs.io/en/latest/
-  * Description: render Jupyter Notebooks as documentation pages
-
-* :doc:`sphinx-notfound-page`
-
-  * Homepage: https://sphinx-notfound-page.readthedocs.io/en/latest/
-  * Description: renders a nice 404 page respecting all the look & feel of your documentation
-
-* :doc:`sphinx-version-warning`
-
-  * Homepage: https://sphinx-version-warning.readthedocs.io/en/latest/
-  * Description: adds a warning banner at the top if reader is reading an old version of your documentation
-
-* :doc:`sphinx-hoverxref`
-
-  * Homepage: https://sphinx-hoverxref.readthedocs.io/
-  * Description: adds tooltips on cross references of the documentation with the content of the linked section
+* :doc:`nbsphinx`: render Jupyter Notebooks as documentation pages
+* :doc:`sphinx-notfound-page`: renders a nice 404 page respecting all the look & feel of your documentation
+* :doc:`sphinx-version-warning`: adds a warning banner at the top if reader is reading an old version of your documentation
+* :doc:`sphinx-hoverxref`: adds tooltips on cross references of the documentation with the content of the linked section
 
 
 Themes
 ------
 
-* sphinx-material
 
-  * Homepage: https://bashtage.github.io/sphinx-material/index.html
-  * Description: responsive Material Design theme
+* `sphinx-material`_: responsive Material Design theme
+* `sphinx-rtd-theme`_: official Read the Docs theme
+* `sphinx-typlog-theme`_: a sphinx theme designed by Typlog
 
-* sphinx-rtd-theme
 
-  * Homepage: https://sphinx-rtd-theme.readthedocs.io/en/stable/
-  * Description: official Read the Docs theme
-
-* sphinx-typlog-theme
-
-  * Homepage: https://sphinx-typlog-theme.readthedocs.io/en/latest/
-  * Description: a sphinx theme designed by Typlog
-
+.. _sphinx-material: https://bashtage.github.io/sphinx-material/index.html
+.. _sphinx-rtd-theme: https://sphinx-rtd-theme.readthedocs.io/en/stable/
+.. _sphinx-typlog-theme: https://sphinx-typlog-theme.readthedocs.io/en/latest/
 
 .. tip::
 
