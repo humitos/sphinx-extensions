@@ -1,6 +1,10 @@
 sphinx-prompt
 =============
 
+:Homepage:
+   https://github.com/sbrunner/sphinx-prompt/
+
+
 ``sphinx-prompt`` is useful to show commands outputs, Python REPL
 scripts and more. It allows you to show a prompt on each line but
 making it *unselectable*, so the reader can just copy and paste your

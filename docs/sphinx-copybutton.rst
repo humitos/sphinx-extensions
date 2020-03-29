@@ -1,6 +1,13 @@
 sphinx-copybutton
 =================
 
+:Homepage:
+   https://github.com/choldgraf/sphinx-copybutton
+
+:Documentation:
+  https://sphinx-copybutton.readthedocs.io/en/latest/
+
+
 ``sphinx-copybutton`` adds a small "copy" button at the right of all
 ``.. code-block::`` directives [#]_, allowing the reader to copy all its
 content into the clipboard with just one click.

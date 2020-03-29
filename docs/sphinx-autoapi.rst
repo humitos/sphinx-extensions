@@ -1,6 +1,12 @@
 sphinx-autoapi
 ==============
 
+:Homepage:
+   https://github.com/readthedocs/sphinx-autoapi/
+
+:Documentation:
+   https://sphinx-autoapi.readthedocs.io/
+
 ``sphinx-autoapi`` provides "autodoc" style documentation for multiple
 programming languages without needing to load, run, or import the
 project being documented.

@@ -22,41 +22,13 @@ work in your docs.
 Extensions
 ----------
 
-* :doc:`sphinx-prompt`
-
-  * Homepage: https://github.com/sbrunner/sphinx-prompt/
-  * Description: directive to add unselectable prompt (``$``, ``>>>``, etc)
-
-* :doc:`sphinxemoji`
-
-  * Homepage: https://github.com/sphinx-contrib/emojicodes/
-  * Description: use emoji codes in your Sphinx documentation
-
-* :doc:`sphinx-copybutton`
-
-  * Homepage: https://sphinx-copybutton.readthedocs.io/en/latest/
-  * Description: adds little "copy" button to the right of your code blocks
-
-* :doc:`myst-parser`
-
-  * Homepage: https://myst-parser.readthedocs.io/en/latest/index.html
-  * Description: powerful Markdown flavor for your Sphinx documentation without loosing the power of Sphinx itself
-
-* :doc:`sphinxcontrib-httpdomain`
-
-  * Homepage: https://sphinxcontrib-httpdomain.readthedocs.io/en/stable/
-  * Description: directives to document APIs in a very detailed way
-
-* :doc:`sphinx-autobuild`
-
-  * Homepage: https://github.com/GaretJax/sphinx-autobuild
-  * Description: watch a directory and rebuild the documentation when a change is detected and reload the page to see the changes
-
-* :doc:`sphinx-autoapi`
-
-  * Homepage: https://sphinx-autoapi.readthedocs.io/en/latest/
-  * Description: auto document your code API without executing the code itself (as ``sphinx.autodoc`` does)
-
+* :doc:`sphinx-prompt`: directive to add unselectable prompt (``$``, ``>>>``, etc) in code blocks
+* :doc:`sphinxemoji`: use emoji codes in your Sphinx documentation
+* :doc:`sphinx-copybutton`: adds little "copy" button to the right of your code blocks
+* :doc:`myst-parser`: powerful Markdown flavor for your Sphinx documentation without loosing the power of Sphinx itself
+* :doc:`sphinxcontrib-httpdomain`: directives to document APIs in a very detailed way
+* :doc:`sphinx-autobuild`: watch a directory and rebuild the documentation when a change is detected and reload the page to see the changes
+* :doc:`sphinx-autoapi`: auto document your code API without executing the code itself (as ``sphinx.autodoc`` does)
 * :doc:`nbsphinx`
 
   * Homepage: https://nbsphinx.readthedocs.io/en/latest/

@@ -1,6 +1,10 @@
 sphinx-autobuild
 ================
 
+:Homepage:
+  https://github.com/GaretJax/sphinx-autobuild
+
+
 ``sphinx-autobuild`` is a useful extension to use while we are writing our documentation and we want to see how it looks like immediately after making any change.
 
 Once executed, it will watch the source files and trigger a re-build of our documentation when a file changes. Besides, it will refresh the page of our browser to render the new changes.

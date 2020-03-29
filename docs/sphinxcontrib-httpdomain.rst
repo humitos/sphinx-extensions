@@ -1,6 +1,13 @@
 sphinxcontrib-httpdomain
 ========================
 
+:Homepage:
+   https://github.com/sphinx-contrib/httpdomain
+
+:Documentation:
+   https://sphinxcontrib-httpdomain.readthedocs.io/en/stable/
+
+
 ``sphinxcontrib-httpdomain`` is useful to describe HTTP APIs. It
 provides Sphinx directives to document endpoints in a detailed way.
 

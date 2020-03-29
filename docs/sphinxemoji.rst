@@ -1,9 +1,15 @@
 sphinxemoji
 ===========
 
+:Homepage:
+  https://github.com/sphinx-contrib/emojicodes/
+
+:Documentation:
+   https://sphinxemojicodes.readthedocs.io/en/stable/
+
+
 ``sphinxemoji`` allows you to easily add emojis in your documentation. It uses internal's Sphinx roles to make it possible.
 
-You can find all the emoji codes available at https://sphinxemojicodes.readthedocs.io/en/stable/
 
 Example
 -------

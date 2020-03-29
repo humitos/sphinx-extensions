@@ -1,5 +1,8 @@
 # myst-parser[sphinx]
 
+* **Homepage**: [https://github.com/ExecutableBookProject/MyST-Parser](https://github.com/ExecutableBookProject/MyST-Parser)
+* **Documentation**: [https://myst-parser.readthedocs.io/en/latest/](https://myst-parser.readthedocs.io/en/latest/)
+
 `myst-parser[sphinx]` is a Markdown parser (`.md` files) that allows you to
 combine all the power of Markdown with all the potential of
 Sphinx. All at once!
