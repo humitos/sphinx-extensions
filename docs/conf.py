@@ -31,6 +31,8 @@ release = '0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinxemoji.sphinxemoji',
+    'sphinx-prompt',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
