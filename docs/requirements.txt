@@ -7,8 +7,11 @@ sphinx-copybutton
 sphinx-autoapi
 myst-parser[sphinx]
 sphinxcontrib-httpdomain
-sphinx-sitemap
+
+# themes
 sphinx-material
 sphinx-rtd-theme
 sphinx-typlog-theme
+
+# local building
 sphinx-autobuild
