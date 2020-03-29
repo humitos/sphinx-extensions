@@ -52,11 +52,6 @@ Extensions
   * Homepage: https://github.com/GaretJax/sphinx-autobuild
   * Description: watch a directory and rebuild the documentation when a change is detected and reload the page to see the changes
 
-* :doc:`sphinx-hoverxref`
-
-  * Homepage: https://sphinx-hoverxref.readthedocs.io/
-  * Description: adds tooltips on cross references of the documentation with the content of the linked section
-
 * :doc:`sphinx-autoapi`
 
   * Homepage: https://sphinx-autoapi.readthedocs.io/en/latest/
@@ -71,6 +66,11 @@ Extensions
 
   * Homepage: https://sphinx-version-warning.readthedocs.io/en/latest/
   * Description: adds a warning banner at the top if reader is reading an old version of your documentation
+
+* :doc:`sphinx-hoverxref`
+
+  * Homepage: https://sphinx-hoverxref.readthedocs.io/
+  * Description: adds tooltips on cross references of the documentation with the content of the linked section
 
 
 Themes
