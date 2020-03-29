@@ -1,0 +1,14 @@
+sphinx~=2.4.0
+sphinx-notfound-page
+sphinx-version-warning
+sphinx-prompt
+sphinxemoji
+sphinx-copybutton
+sphinx-autoapi
+myst-parser[sphinx]
+sphinxcontrib-httpdomain
+sphinx-sitemap
+sphinx-material
+sphinx-rtd-theme
+sphinx-typlog-theme
+sphinx-autobuild
