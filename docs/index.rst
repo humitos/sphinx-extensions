@@ -46,6 +46,10 @@ Extensions
 
 * :doc:`sphinx-autoapi`
 * :doc:`myst-parser`
+
+  * Homepage: https://myst-parser.readthedocs.io/en/latest/index.html
+  * Description: powerful Markdown flavor for your Sphinx documentation without loosing the power of Sphinx itself
+
 * :doc:`sphinxcontrib-httpdomain`
 * :doc:`sphinx-autobuild`
 
