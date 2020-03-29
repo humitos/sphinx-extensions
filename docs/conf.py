@@ -65,7 +65,7 @@ html_context = sphinx_material.get_html_context()
 html_theme_options = {
 
     # Set the name of the project to appear in the navigation.
-    'nav_title': 'sphinx-extensions',
+    'nav_title': 'Extensions',
 
     # Set the color and the accent color
     'color_primary': 'blue',
@@ -74,14 +74,14 @@ html_theme_options = {
     # Set the repo location to get a badge with stats
     'repo_url': 'https://github.com/humitos/sphinx-extensions/',
     'repo_name': 'sphinx-extensions',
-
-    # Visible levels of the global TOC; -1 means unlimited
-    'globaltoc_depth': 3,
-    # If False, expand all TOC entries
-    'globaltoc_collapse': False,
-    # If True, show hidden TOC entries
-    'globaltoc_includehidden': False,
 }
+
+
+# globaltoc seems it's not added by default
+html_sidebars = {
+    '**': ['globaltoc.html', 'localtoc.html', 'searchbox.html']
+}
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

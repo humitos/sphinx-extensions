@@ -97,3 +97,11 @@ Themes
    Each page have a "Show Source" link at the right navigation
    bar. You can click on it to see what you need to write in the
    source file to make it render as you see.
+
+
+
+.. toctree::
+   :glob:
+   :hidden:
+
+   *
