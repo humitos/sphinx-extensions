@@ -57,6 +57,11 @@ Extensions
   * Homepage: https://sphinx-autoapi.readthedocs.io/en/latest/
   * Description: auto document your code API without executing the code itself (as ``sphinx.autodoc`` does)
 
+* :doc:`nbsphinx`
+
+  * Homepage: https://nbsphinx.readthedocs.io/en/latest/
+  * Description: render Jupyter Notebooks as documentation pages
+
 * :doc:`sphinx-notfound-page`
 
   * Homepage: https://sphinx-notfound-page.readthedocs.io/en/latest/

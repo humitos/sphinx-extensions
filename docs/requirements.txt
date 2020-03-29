@@ -1,4 +1,10 @@
+# core
 sphinx~=2.4.0
+
+# extensions
+nbsphinx
+matplotlib
+
 sphinx-notfound-page
 sphinx-version-warning
 sphinx-prompt
