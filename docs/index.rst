@@ -22,13 +22,6 @@ work in your docs.
 Extensions
 ----------
 
-* :doc:`sphinx-hoverxref`:
-
-  * Homepage: https://sphinx-hoverxref.readthedocs.io/
-  * Description: adds tooltips on cross references of the documentation with the content of the linked section
-
-* :doc:`sphinx-notfound-page`
-* :doc:`sphinx-version-warning`
 * :doc:`sphinx-prompt`
 
   * Homepage: https://github.com/sbrunner/sphinx-prompt/
@@ -44,7 +37,6 @@ Extensions
   * Homepage: https://sphinx-copybutton.readthedocs.io/en/latest/
   * Description: adds little "copy" button to the right of your code blocks
 
-* :doc:`sphinx-autoapi`
 * :doc:`myst-parser`
 
   * Homepage: https://myst-parser.readthedocs.io/en/latest/index.html
@@ -60,13 +52,44 @@ Extensions
   * Homepage: https://github.com/GaretJax/sphinx-autobuild
   * Description: watch a directory and rebuild the documentation when a change is detected and reload the page to see the changes
 
+* :doc:`sphinx-hoverxref`
+
+  * Homepage: https://sphinx-hoverxref.readthedocs.io/
+  * Description: adds tooltips on cross references of the documentation with the content of the linked section
+
+* :doc:`sphinx-autoapi`
+
+  * Homepage: https://sphinx-autoapi.readthedocs.io/en/latest/
+  * Description: auto document your code API without executing the code itself (as ``sphinx.autodoc`` does)
+
+* :doc:`sphinx-notfound-page`
+
+  * Homepage: https://sphinx-notfound-page.readthedocs.io/en/latest/
+  * Description: renders a nice 404 page respecting all the look & feel of your documentation
+
+* :doc:`sphinx-version-warning`
+
+  * Homepage: https://sphinx-version-warning.readthedocs.io/en/latest/
+  * Description: adds a warning banner at the top if reader is reading an old version of your documentation
+
 
 Themes
 ------
 
 * :doc:`sphinx-material`
+
+  * Homepage: https://bashtage.github.io/sphinx-material/index.html
+  * Description: responsive Material Design theme
+
 * :doc:`sphinx-rtd-theme`
+
+  * Homepage: https://sphinx-rtd-theme.readthedocs.io/en/stable/
+  * Description: official Read the Docs theme
+
 * :doc:`sphinx-typlog-theme`
+
+  * Homepage: https://sphinx-typlog-theme.readthedocs.io/en/latest/
+  * Description: a sphinx theme designed by Typlog
 
 
 .. tip::
