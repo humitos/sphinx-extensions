@@ -33,6 +33,8 @@ release = '0.1'
 extensions = [
     'sphinxemoji.sphinxemoji',
     'sphinx-prompt',
+    'sphinx_copybutton',
+    'notfound.extension',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
