@@ -68,6 +68,7 @@ html_theme = 'sphinx_material'
 html_theme_path = sphinx_material.html_theme_path()
 # Register the required helpers for the html context
 html_context = sphinx_material.get_html_context()
+version_dropdown = False
 
 # Material theme options (see theme.conf for more information)
 html_theme_options = {
