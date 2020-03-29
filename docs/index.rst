@@ -3,9 +3,9 @@ Welcome to sphinx-extensions' documentation!
 
 This is a curated and *opinionated* list of Sphinx_ extensions that I
 found useful while working with different Sphinx documentation
-projects. All the extension listed here have their own page showing a
-working live example and it's minimum configuration to make it work in
-your docs.
+projects. All the extension listed here have their own page **showing
+a working live example** and it's minimum configuration to make it
+work in your docs.
 
 .. _Sphinx: https://www.sphinx-doc.org/
 
