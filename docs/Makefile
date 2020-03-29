@@ -20,4 +20,4 @@ help:
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 livehtml:
-	sphinx-autobuild -b html $(SPHINXOPTS) $(SOURCEDIR) $(BUILDDIR)/html
+	sphinx-autobuild -b html --ignore "sphinx-notfound-page/*" --ignore "autoapi/*" $(SPHINXOPTS) $(SOURCEDIR) $(BUILDDIR)/html
