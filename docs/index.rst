@@ -30,12 +30,20 @@ Extensions
 * :doc:`sphinx-notfound-page`
 * :doc:`sphinx-version-warning`
 * :doc:`sphinx-prompt`
+
+  * Homepage: https://github.com/sbrunner/sphinx-prompt/
+  * Description: directive to add unselectable prompt (``$``, ``>>>``, etc)
+
 * :doc:`sphinxemoji`
 
   * Homepage: https://github.com/sphinx-contrib/emojicodes/
-  * Description: An extension to use emoji codes in your Sphinx documentation!
+  * Description: use emoji codes in your Sphinx documentation
 
 * :doc:`sphinx-copybutton`
+
+  * Homepage: https://sphinx-copybutton.readthedocs.io/en/latest/
+  * Description: adds little "copy" button to the right of your code blocks
+
 * :doc:`sphinx-autoapi`
 * :doc:`myst-parser[sphinx]`
 * :doc:`sphinxcontrib-httpdomain`
@@ -43,7 +51,7 @@ Extensions
 * :doc:`sphinx-autobuild`
 
   * Homepage: https://github.com/GaretJax/sphinx-autobuild
-  * Description: watch a Sphinx directory and rebuild the documentation when a change is detected and reload the page to see the changes.
+  * Description: watch a directory and rebuild the documentation when a change is detected and reload the page to see the changes
 
 
 Themes
