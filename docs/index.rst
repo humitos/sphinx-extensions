@@ -81,17 +81,17 @@ Extensions
 Themes
 ------
 
-* :doc:`sphinx-material`
+* sphinx-material
 
   * Homepage: https://bashtage.github.io/sphinx-material/index.html
   * Description: responsive Material Design theme
 
-* :doc:`sphinx-rtd-theme`
+* sphinx-rtd-theme
 
   * Homepage: https://sphinx-rtd-theme.readthedocs.io/en/stable/
   * Description: official Read the Docs theme
 
-* :doc:`sphinx-typlog-theme`
+* sphinx-typlog-theme
 
   * Homepage: https://sphinx-typlog-theme.readthedocs.io/en/latest/
   * Description: a sphinx theme designed by Typlog
