@@ -9,7 +9,7 @@ Once executed, it will watch the source files and trigger a re-build of our docu
 Installation
 ------------
 
-.. code-block:: python
+.. prompt:: bash
 
    pip install sphinx-autobuild
 
