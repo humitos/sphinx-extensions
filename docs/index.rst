@@ -45,9 +45,8 @@ Extensions
   * Description: adds little "copy" button to the right of your code blocks
 
 * :doc:`sphinx-autoapi`
-* :doc:`myst-parser[sphinx]`
+* :doc:`myst-parser`
 * :doc:`sphinxcontrib-httpdomain`
-* :doc:`sphinx-sitemap`
 * :doc:`sphinx-autobuild`
 
   * Homepage: https://github.com/GaretJax/sphinx-autobuild
