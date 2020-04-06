@@ -74,17 +74,20 @@ version_dropdown = False
 html_theme_options = {
 
     # Set the name of the project to appear in the navigation.
-    'nav_title': 'Extensions',
-
+    'nav_title': 'sphinx-extensions',
     # Set the color and the accent color
     'color_primary': 'blue',
     'color_accent': 'light-blue',
+
+    'master_doc': None,
+    'nav_links': [],
+
+    'heroes': {},
 
     # Set the repo location to get a badge with stats
     'repo_url': 'https://github.com/humitos/sphinx-extensions/',
     'repo_name': 'sphinx-extensions',
 }
-
 
 # globaltoc seems it's not added by default
 html_sidebars = {
