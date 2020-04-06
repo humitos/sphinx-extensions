@@ -42,11 +42,13 @@ Themes
 * `sphinx-material`_: responsive Material Design theme
 * `sphinx-rtd-theme`_: official Read the Docs theme
 * `sphinx-typlog-theme`_: a sphinx theme designed by Typlog
+* `pydata-sphinx-theme`_: official PyData theme
 
 
 .. _sphinx-material: https://bashtage.github.io/sphinx-material/index.html
 .. _sphinx-rtd-theme: https://sphinx-rtd-theme.readthedocs.io/en/stable/
 .. _sphinx-typlog-theme: https://sphinx-typlog-theme.readthedocs.io/en/latest/
+.. _pydata-sphinx-theme: https://pydata-sphinx-theme.readthedocs.io/en/latest/
 
 .. tip::
 
