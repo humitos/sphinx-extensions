@@ -10,3 +10,5 @@ python:
 
 submodules:
   include: all
+
+formats: all
