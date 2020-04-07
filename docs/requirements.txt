@@ -3,6 +3,7 @@ sphinx~=2.4.0
 
 # extensions
 nbsphinx
+ipykernel
 matplotlib
 
 sphinx-notfound-page
