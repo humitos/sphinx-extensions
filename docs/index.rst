@@ -30,9 +30,13 @@ Extensions
 * :doc:`sphinx-autobuild`: rebuild the documentation when a change is detected and reload the page to see the changes
 * :doc:`sphinx-autoapi`: auto document your code API without executing the code itself (as ``sphinx.autodoc`` does)
 * :doc:`nbsphinx`: render Jupyter Notebooks as documentation pages
-* :doc:`sphinx-notfound-page`: renders a nice 404 page respecting all the look & feel of your documentation
-* :doc:`sphinx-version-warning`: adds a warning banner at the top if reader is reading an old version of your documentation
-* :doc:`sphinx-hoverxref`: adds tooltips on cross references of the documentation with the content of the linked section
+* `sphinx-notfound-page`_: renders a nice 404 page respecting all the look & feel of your documentation
+* `sphinx-version-warning`_: adds a warning banner at the top if reader is reading an old version of your documentation
+* `sphinx-hoverxref`_: adds tooltips on cross references of the documentation with the content of the linked section
+
+.. _sphinx-notfound-page: https://sphinx-notfound-page.readthedocs.io/
+.. _sphinx-version-warning: http://sphinx-version-warning.readthedocs.io/
+.. _sphinx-hoverxref: https://sphinx-hoverxref.readthedocs.io/
 
 
 Themes
