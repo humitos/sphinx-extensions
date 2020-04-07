@@ -41,7 +41,7 @@ extensions = [
     'nbsphinx',
 ]
 
-nbsphinx_execute = 'never'
+nbsphinx_execute = 'auto'
 
 autoapi_dirs = [
     'sphinx-notfound-page/notfound',
