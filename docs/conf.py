@@ -31,6 +31,7 @@ release = '0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.autosectionlabel',
     'sphinxemoji.sphinxemoji',
     'sphinx-prompt',
     'sphinx_copybutton',
@@ -40,6 +41,8 @@ extensions = [
     'autoapi.extension',
     'nbsphinx',
 ]
+
+autosectionlabel_prefix_document = True
 
 nbsphinx_execute = 'auto'
 
