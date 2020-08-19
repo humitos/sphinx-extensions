@@ -40,6 +40,7 @@ extensions = [
     'sphinxcontrib.httpdomain',
     'autoapi.extension',
     'nbsphinx',
+    'sphinx_last_updated_by_git',
 ]
 
 autosectionlabel_prefix_document = True

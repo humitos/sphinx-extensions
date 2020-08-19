@@ -33,10 +33,12 @@ Extensions
 * `sphinx-notfound-page`_: renders a nice 404 page respecting all the look & feel of your documentation
 * `sphinx-version-warning`_: adds a warning banner at the top if reader is reading an old version of your documentation
 * `sphinx-hoverxref`_: adds tooltips on cross references of the documentation with the content of the linked section
+* `sphinx-last-updated-by-git`_: adds the "last updated" date for each page (obtained from the Git commit date)
 
 .. _sphinx-notfound-page: https://sphinx-notfound-page.readthedocs.io/
 .. _sphinx-version-warning: http://sphinx-version-warning.readthedocs.io/
 .. _sphinx-hoverxref: https://sphinx-hoverxref.readthedocs.io/
+.. _sphinx-last-updated-by-git: https://github.com/mgeier/sphinx-last-updated-by-git
 
 
 Themes
