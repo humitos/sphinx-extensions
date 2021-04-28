@@ -45,18 +45,8 @@ Themes
 ------
 
 
-* `sphinx-material`_: responsive Material Design theme
-* `sphinx-rtd-theme`_: official Read the Docs theme
-* `furo`_: clean customizable theme
-* `sphinx-typlog-theme`_: a sphinx theme designed by Typlog
-* `pydata-sphinx-theme`_: official PyData theme
+Visit https://sphinx-themes.org/ for a full list of live themes!
 
-
-.. _sphinx-material: https://bashtage.github.io/sphinx-material/index.html
-.. _furo: https://pradyunsg.me/furo/quickstart/
-.. _sphinx-rtd-theme: https://sphinx-rtd-theme.readthedocs.io/en/stable/
-.. _sphinx-typlog-theme: https://sphinx-typlog-theme.readthedocs.io/en/latest/
-.. _pydata-sphinx-theme: https://pydata-sphinx-theme.readthedocs.io/en/latest/
 
 .. tip::
 
