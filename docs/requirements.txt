@@ -1,5 +1,5 @@
 # core
-sphinx~=2.4.0
+sphinx==4.2.0
 
 # extensions
 nbsphinx
