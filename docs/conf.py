@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'sphinx-extensions'
-copyright = '2020, Manuel Kaufmann'
+copyright = '2021, Manuel Kaufmann'
 author = 'Manuel Kaufmann'
 
 # The full version, including alpha/beta/rc tags
