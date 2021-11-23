@@ -24,6 +24,7 @@ Extensions
 
 * :doc:`sphinx-prompt`: directive to add unselectable prompt (``$``, ``>>>``, etc) in code blocks
 * :doc:`sphinxemoji`: use emoji codes in your Sphinx documentation
+* :doc:`sphinx-favicon`: add custom favicons to your Sphinx documentation
 * :doc:`sphinx-copybutton`: adds little "copy" button to the right of your code blocks
 * :doc:`myst-parser`: powerful Markdown flavor for your Sphinx documentation without loosing the power of Sphinx itself
 * :doc:`sphinxcontrib-httpdomain`: directives to document APIs in a very detailed way
