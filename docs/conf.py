@@ -48,7 +48,7 @@ autosectionlabel_prefix_document = True
 nbsphinx_execute = 'auto'
 nbsphinx_execute_arguments = [
     "--InlineBackend.figure_formats={'svg', 'pdf'}",
-    "--InlineBackend.rc={'figure.dpi': 96}",
+    "--InlineBackend.rc=figure.dpi=96",
 ]
 
 autoapi_dirs = [
