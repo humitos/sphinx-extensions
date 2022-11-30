@@ -1,0 +1,25 @@
+# core
+sphinx
+
+# extensions
+nbsphinx
+ipykernel
+matplotlib
+
+sphinx-notfound-page
+sphinx-version-warning
+sphinx-prompt
+sphinxemoji
+sphinx-copybutton
+sphinx-autoapi
+myst-parser
+sphinxcontrib-httpdomain
+sphinx-last-updated-by-git
+
+# themes
+sphinx-material
+sphinx-rtd-theme
+sphinx-typlog-theme
+
+# local building
+sphinx-autobuild
