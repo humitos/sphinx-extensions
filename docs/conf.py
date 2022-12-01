@@ -41,8 +41,18 @@ extensions = [
     'autoapi.extension',
     'nbsphinx',
     'sphinx_last_updated_by_git',
+    'sphinx_design',
+    'sphinx-favicon',
 ]
 
+
+favicons = [
+   {
+      "rel": "icon",
+      "static-file": "favicon.svg",
+      "type": "image/svg+xml",
+   },
+]
 autosectionlabel_prefix_document = True
 
 nbsphinx_execute = 'auto'

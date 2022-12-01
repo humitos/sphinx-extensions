@@ -15,6 +15,9 @@ sphinx-autoapi
 myst-parser
 sphinxcontrib-httpdomain
 sphinx-last-updated-by-git
+sphinx-favicon
+
+sphinx-design
 
 # themes
 sphinx-material
