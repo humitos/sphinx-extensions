@@ -208,6 +208,8 @@ sphinx==5.3.0
     #   sphinx-autoapi
     #   sphinx-autobuild
     #   sphinx-copybutton
+    #   sphinx-design
+    #   sphinx-favicon
     #   sphinx-last-updated-by-git
     #   sphinx-material
     #   sphinx-notfound-page
@@ -221,6 +223,10 @@ sphinx-autoapi==2.0.0
 sphinx-autobuild==2021.3.14
     # via -r docs/requirements.in
 sphinx-copybutton==0.5.1
+    # via -r docs/requirements.in
+sphinx-design==0.3.0
+    # via -r docs/requirements.in
+sphinx-favicon==0.2
     # via -r docs/requirements.in
 sphinx-last-updated-by-git==0.3.4
     # via -r docs/requirements.in

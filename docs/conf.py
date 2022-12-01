@@ -41,8 +41,18 @@ extensions = [
     'autoapi.extension',
     'nbsphinx',
     'sphinx_last_updated_by_git',
+    'sphinx_design',
+    'sphinx-favicon',
 ]
 
+
+favicons = [
+   {
+      "rel": "icon",
+      "static-file": "favicon.svg",
+      "type": "image/svg+xml",
+   },
+]
 autosectionlabel_prefix_document = True
 
 nbsphinx_execute = 'auto'
@@ -69,23 +79,15 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'sphinx-notfound-page', 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-import sphinx_material
-# Choose the material theme
 html_theme = 'sphinx_material'
-# Get the them path
-html_theme_path = sphinx_material.html_theme_path()
-# Register the required helpers for the html context
-html_context = sphinx_material.get_html_context()
-version_dropdown = False
+html_logo = '_static/logo.svg'
 
 # Material theme options (see theme.conf for more information)
 html_theme_options = {
-
-    # Set the name of the project to appear in the navigation.
     'nav_title': 'sphinx-extensions',
-    # Set the color and the accent color
     'color_primary': 'blue',
     'color_accent': 'light-blue',
+    'version_dropwdown': False,
 
     'master_doc': None,
     'nav_links': [],
