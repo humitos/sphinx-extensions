@@ -19,7 +19,7 @@ Extensions
    3. Add a red arrow of 2px width
    4. Save it in PNG with 7 as compression level
 
-.. grid:: 3
+.. grid:: 1 2 3 3
 
    .. grid-item-card:: sphinx-prompt
       :img-top: _static/sphinx-prompt.gif
