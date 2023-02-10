@@ -120,6 +120,15 @@ Extensions
       :padding: 1
 
       Adds the "last updated" date at the bottom of each documentation page (obtained from the Git commit date).
+      
+   .. grid-item-card:: sphinxext-opengraph
+      :img-top: _static/sphinxext-opengraph.png
+      :link: https://github.com/wpilibsuite/sphinxext-opengraph
+      :padding: 1
+
+      Sphinx extension to generate `Open Graph metadata <https://ogp.me/>`_ ✨ for each page of your documentation.
+      
+      
 
 
 Themes
