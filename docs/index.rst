@@ -126,7 +126,7 @@ Extensions
       :link: https://github.com/wpilibsuite/sphinxext-opengraph
       :padding: 1
 
-      Sphinx extension to generate `Open Graph metadata <https://ogp.me/>`_ ✨ for each page of your documentation.
+      Generates Open Graph metadata ✨ for each page of your documentation.
       
       
 
