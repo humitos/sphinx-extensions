@@ -5,7 +5,7 @@ sphinx-favicon
    https://github.com/tcmetzger/sphinx-favicon
 
 :Documentation:
-   https://github.com/tcmetzger/sphinx-favicon#readme
+   https://sphinx-favicon.readthedocs.io/en/latest/
 
 With ``sphinx-favicon``, you can add custom favicons to your Sphinx html
 documentation quickly and easily.
@@ -17,7 +17,7 @@ and any favicon size.
 
 The ``sphinx-favicon`` extension gives you more flexibility than the `standard
 favicon.ico supported by Sphinx
-<https://www.sphinx-doc.org/en/master/templating.html?highlight=favicon#favicon_url>`_.
+<https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-html_favicon>`_.
 It provides a quick and easy way to add the most important favicon formats for
 different browsers and devices.
 
@@ -67,5 +67,5 @@ Configuration
       },
    ]
 
-See `the project readme on GitHub <https://github.com/tcmetzger/sphinx-favicon#readme>`_
+See `the project documentation <https://sphinx-favicon.readthedocs.io/en/latest/>`_
 for more configuration options!
