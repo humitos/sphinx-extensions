@@ -42,15 +42,14 @@ extensions = [
     'nbsphinx',
     'sphinx_last_updated_by_git',
     'sphinx_design',
-    'sphinx-favicon',
+    'sphinx_favicon',
 ]
 
 
 favicons = [
    {
       "rel": "icon",
-      "static-file": "favicon.svg",
-      "type": "image/svg+xml",
+      "href": "favicon.svg",
    },
 ]
 autosectionlabel_prefix_document = True
