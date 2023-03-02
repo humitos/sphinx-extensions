@@ -226,7 +226,7 @@ sphinx-copybutton==0.5.1
     # via -r docs/requirements.in
 sphinx-design==0.3.0
     # via -r docs/requirements.in
-sphinx-favicon==0.2
+sphinx-favicon==1.0
     # via -r docs/requirements.in
 sphinx-last-updated-by-git==0.3.4
     # via -r docs/requirements.in
