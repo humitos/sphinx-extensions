@@ -63,7 +63,7 @@ Configuration
       {
          "rel": "apple-touch-icon",
          "sizes": "180x180",
-         "href": "https://secure.example.com/favicon/apple-touch-icon-180x180.png",
+         "href": "apple-touch-icon-180x180.png",  # use a local file in _static
       },
    ]
 
