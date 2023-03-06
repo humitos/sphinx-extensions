@@ -22,7 +22,7 @@ beautifulsoup4==4.11.1
     #   sphinx-material
 bleach==5.0.1
     # via nbconvert
-certifi==2022.9.24
+certifi==2022.12.7
     # via requests
 charset-normalizer==2.1.1
     # via requests
@@ -59,7 +59,7 @@ idna==3.4
 imagesize==1.4.1
     # via sphinx
 ipykernel==6.17.1
-    # via -r docs/requirements.in
+    # via -r requirements.in
 ipython==8.7.0
     # via ipykernel
 jedi==0.18.2
@@ -102,7 +102,7 @@ markupsafe==2.1.1
     #   jinja2
     #   nbconvert
 matplotlib==3.6.2
-    # via -r docs/requirements.in
+    # via -r requirements.in
 matplotlib-inline==0.1.6
     # via
     #   ipykernel
@@ -114,7 +114,7 @@ mdurl==0.1.2
 mistune==2.0.4
     # via nbconvert
 myst-parser==0.18.1
-    # via -r docs/requirements.in
+    # via -r requirements.in
 nbclient==0.7.2
     # via nbconvert
 nbconvert==7.2.5
@@ -125,7 +125,7 @@ nbformat==5.7.0
     #   nbconvert
     #   nbsphinx
 nbsphinx==0.8.10
-    # via -r docs/requirements.in
+    # via -r requirements.in
 nest-asyncio==1.5.6
     # via
     #   ipykernel
@@ -202,7 +202,7 @@ soupsieve==2.3.2.post1
     # via beautifulsoup4
 sphinx==5.3.0
     # via
-    #   -r docs/requirements.in
+    #   -r requirements.in
     #   myst-parser
     #   nbsphinx
     #   sphinx-autoapi
@@ -219,29 +219,29 @@ sphinx==5.3.0
     #   sphinxcontrib-httpdomain
     #   sphinxemoji
 sphinx-autoapi==2.0.0
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinx-autobuild==2021.3.14
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinx-copybutton==0.5.1
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinx-design==0.3.0
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinx-favicon==1.0.1
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinx-last-updated-by-git==0.3.4
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinx-material==0.0.35
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinx-notfound-page==0.8.3
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinx-prompt==1.5.0
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinx-rtd-theme==1.1.1
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinx-typlog-theme==0.8.0
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinx-version-warning==1.1.2
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinxcontrib-applehelp==1.0.2
     # via sphinx
 sphinxcontrib-devhelp==1.0.2
@@ -249,7 +249,7 @@ sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==2.0.0
     # via sphinx
 sphinxcontrib-httpdomain==1.8.1
-    # via -r docs/requirements.in
+    # via -r requirements.in
 sphinxcontrib-jsmath==1.0.1
     # via sphinx
 sphinxcontrib-qthelp==1.0.3
@@ -257,7 +257,7 @@ sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
 sphinxemoji==0.2.0
-    # via -r docs/requirements.in
+    # via -r requirements.in
 stack-data==0.6.2
     # via ipython
 text-unidecode==1.3
