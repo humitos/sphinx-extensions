@@ -1,5 +1,5 @@
-Best Sphinx extensions list
-===========================
+*Best* Sphinx extensions list
+=============================
 
 This is a curated and *opinionated* list of Sphinx_ extensions that I
 found useful while working with different Sphinx documentation projects.
