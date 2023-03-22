@@ -1,5 +1,5 @@
-Welcome to sphinx-extensions' documentation!
-============================================
+Curated and *opinionated* list of Sphinx extensions
+===================================================
 
 This is a curated and *opinionated* list of Sphinx_ extensions that I
 found useful while working with different Sphinx documentation projects.
