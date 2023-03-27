@@ -2,7 +2,7 @@ sphinx-autobuild
 ================
 
 :Homepage:
-  https://github.com/GaretJax/sphinx-autobuild
+  https://github.com/executablebooks/sphinx-autobuild
 
 
 ``sphinx-autobuild`` is a useful extension to use while we are writing our documentation and we want to see how it looks like immediately after making any change.
