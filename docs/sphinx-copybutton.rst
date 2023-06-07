@@ -2,7 +2,7 @@ sphinx-copybutton
 =================
 
 :Homepage:
-   https://github.com/choldgraf/sphinx-copybutton
+   https://github.com/executablebooks/sphinx-copybutton
 
 :Documentation:
   https://sphinx-copybutton.readthedocs.io/en/latest/
