@@ -60,7 +60,7 @@ imagesize==1.4.1
     # via sphinx
 ipykernel==6.17.1
     # via -r docs/requirements.in
-ipython==8.7.0
+ipython==8.16.0
     # via ipykernel
 jedi==0.18.2
     # via ipython
