@@ -1,3 +1,5 @@
+/* See https://github.com/readthedocs/addons/issues/197 */
 :root {
     --readthedocs-flyout-font-size: 0.6rem;
+    --readthedocs-notification-font-size: 0.7rem;
 }
